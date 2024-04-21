@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrishti Bansal</h1>
 <h3 align="center">A passionate software developer.</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTDj_3c-P5J5IwYVwNQLjlKJ7b0XS67uqsT449jCroeUQyaibeBj4A7SzwlA2RFno3qo&usqp=CAU" />
+<img align="right" alt="coding" width="400" src="gif.webp" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techshri027&label=Profile%20views&color=0e75b6&style=flat" alt="techshri027" /> </p>
